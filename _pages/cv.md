@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Vinh N. Pham. Ph.D candidate in Plant Biology and Genomics"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Vinh N. Pham 
+
 
 Education
 ======
