@@ -8,24 +8,25 @@ redirect_from:
 ---
 
 {% include base_path %}
+Vinh N. Pham 
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biochemistry, Vietnam National University, 2010
+* M.S. in Plant Biology, Pohang University of Science and Technology, South Korea, 2013
+* Ph.D in Plant Biology and Computational Biology, The University of Texas at Austin, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-present: Graduate Research Assistant
+  * The University of Texas at Austin
+  * Projects: Dynamic regulation of COP1/SPA in regulating photomorphogenesis in light signaling. Co-expression network in light signaling.
+  * Supervisor: Professor Enamul Huq
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * University
+  * Duties included: 
+  * Supervisor: 
   
 Skills
 ======
