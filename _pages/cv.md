@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Vinh N. Pham. Ph.D candidate in Plant Biology and Genomics"
+title: "Vinh N. Pham"
 permalink: /cv/
 author_profile: true
 redirect_from:
