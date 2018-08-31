@@ -12,30 +12,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biochemistry, Vietnam National University, 2010
+* Ph.D in Plant Molecular Genetics and Genomics, The University of Texas at Austin, 2019 (expected)
 * M.S. in Plant Biology, Pohang University of Science and Technology, South Korea, 2013
-* Ph.D in Plant Biology and Computational Biology, The University of Texas at Austin, 2019 (expected)
+* B.S. in Biochemistry, Vietnam National University, 2010
 
 Work experience
 ======
 * 2014-present: Graduate Research Assistant
-  * The University of Texas at Austin
-  * Projects: Dynamic regulation of COP1/SPA in regulating photomorphogenesis in light signaling. Co-expression network in light signaling.
-  * Supervisor: Professor Enamul Huq
+  * Conduct molecular genetics techniques and RNA-seq data analysis to understand the transcriptomic changes regulated by different transcription factors in light signaling pathway in plant model.
+  * Designed and implemented computational pipelines for processing NGS data analysis (RNAseq) differential gene expression, statistical analysis using R.
+  * Data processing pipeline using UNIX/Linux on TACC stampede supercomputer.
 
-* Fall 2015: Research Assistant
-  * University
-  * Duties included: 
-  * Supervisor: 
+* 2017 - present: Instructor, Software/Data Carpentry
+  * Organize and teach workshops on genomics data analysis using Shell/R/cloud computing for Genomics/ Ecology.
+  
+* 2013-2014: Field Application Specialist, Biomedic JSC-Illumina’s Exclusive Distributor, Vietnam
+  * Prepared library for WGS, RNA-seq, metagenomics. analyzed large-scale data (including genetics screening in lung cancer, HLA typing, prenatal genetic diagnostic, metagenomic analysis).
+  * Worked with research scientists and doctors from hospitals for optimizing the protocols for qRT-PCR for HBV, HCV detection, genetic screening in lung cancer.
+  
+* 2011-2013: Graduate Research Assistant, POSTECH
+  * Implemented molecular, biochemical techniques, particularly protein-protein interactions to
+study functional protein network.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytical and research skills with the strong backgrounds in molecular genetics and next generation sequencing bioinformatics analysis for genome assembly and gene expression analysis.
+* Data processing pipeline using UNIX/Linux on TACC HPC supercomputer, cloud computing experience.
+* Data analysis and visualization using R and Python
+* Co-expression network analysis 
 
 Publications
 ======
@@ -43,7 +47,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Poster and Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -55,6 +59,17 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* The University of Texas at Austin, Professional Development Award (2018)
+* US National Science Foundation Travel Award, ICAR 2017 (2017)
+* The University of Texas at Austin, Professional Development Award (2017)
+* Dean’s Prestigious Fellowship UT Austin (2014, 2015)
+* Vietnam Education Foundation (VEF) Fellowship (2014)
+* POSTECH Graduate Fellowship (2011, 2012)
+* Life Science (POSTECH) Undergraduate Fellowship (2010)
+* POSCO Asia Fellowships-POSCO TJ Park Foundation (2008)
+* Dean’s Scholar, Vietnam National University, Hanoi (VNU) (2008, 2010)
+* Scholarship for excellent student, Ministry of Education and Training, Vietnam (2009, 2010)
+* First Laureate of Section B, University Entrance Exam, Vietnam National University (2006)
+
