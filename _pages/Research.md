@@ -4,7 +4,7 @@ title: "Research Interest"
 permalink: /
 author_profile: true
 redirect_from:
-  - /research.html/
+  - /research.html
 ---
 
 {% include base_path %}
