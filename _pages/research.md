@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "Research Interest"
-permalink: /research
+permalink: /research/
 author_profile: true
-redirect_from:
-  - /research.html
 ---
 
 {% include base_path %}
