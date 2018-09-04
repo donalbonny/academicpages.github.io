@@ -7,7 +7,7 @@ venue: 'The Plant Journal'
 paperurl: 'https://doi.org/10.1111/tpj.14074'
 citation: 'Pham et al., 2018b https://doi.org/10.1111/tpj.14074'
 ---
-Selected as research highlight and cover photo for The Plant Journal Issue 96-2, 2018
+Selected as research highlight and cover photo for The Plant Journal Issue 96-2, 2018. 
 
 [Download paper here](https://doi.org/10.1111/tpj.14074)
 
