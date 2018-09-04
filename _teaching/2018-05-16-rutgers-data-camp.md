@@ -2,7 +2,7 @@
 title: "Rutgers University Data Skills Boot Camp"
 collection: teaching
 type: "2-day workshop"
-permalink: /teaching/2018-05-16-Rutgers-data-camp
+permalink: /teaching/2018-05-16-rutgers-data-camp
 venue: "Rutgers University"
 date: 2018-05-16
 location: "New Jersey, USA"
