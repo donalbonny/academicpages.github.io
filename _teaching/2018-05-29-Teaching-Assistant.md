@@ -2,7 +2,7 @@
 title: "Teaching Assistant at the University of Texas at Austin"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/Teaching-Assistant
+permalink: /teaching/2018-05-29-Teaching-Assistant
 venue: "The University of Texas at Austin"
 date: 2016-present
 location: "Austin, USA"
