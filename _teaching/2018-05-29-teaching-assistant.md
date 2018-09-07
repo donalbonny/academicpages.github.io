@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2018-05-29-teaching-assistant
 venue: "The University of Texas at Austin"
-date: 2016-present
+date: 2018-05-29
 location: "Austin, USA"
 ---
 
