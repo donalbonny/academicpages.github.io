@@ -7,4 +7,4 @@ venue: 'Plant Physiology'
 ---
 
 
-[Download paper here] ({{ site.url }}/files/Plant_Phys_review.pdf)
+[Download paper here] ({{ site.url }}/assets/Plant_Phys_review.pdf)
