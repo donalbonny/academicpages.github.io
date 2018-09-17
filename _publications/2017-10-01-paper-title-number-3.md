@@ -6,8 +6,6 @@ date: 2017-10-01
 venue: 'Development'
 ---
 
-[Download paper here]  
-
-({{ site.url }}/files/Development_2017.pdf)
+[Download paper here] ({{ site.url }}/files/Development_2017.pdf)
 
 
