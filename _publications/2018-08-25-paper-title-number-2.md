@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2018-08-25-paper-title-number-2
 date: 2018-08-25
 venue: 'The Plant Journal'
-paperurl: '/files/Pham_et_al-2018-The_Plant_Journal (1).pdf'
 ---
 Selected as research highlight and cover photo for The Plant Journal Issue 96-2, 2018. 
 
