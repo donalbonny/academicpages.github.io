@@ -9,6 +9,6 @@ citation: 'Pham et al., 2018b https://doi.org/10.1111/tpj.14074'
 ---
 Selected as research highlight and cover photo for The Plant Journal Issue 96-2, 2018. 
 
-[Download paper here](/files/Pham_et_al-2018-The_Plant_Journal (1).pdf)
+[Download paper here]('/files/Pham_et_al-2018-The_Plant_Journal (1).pdf')
 
 
