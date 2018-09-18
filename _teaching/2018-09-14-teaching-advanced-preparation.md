@@ -1,5 +1,5 @@
 ---
-title: "Advanced teaching Preparation"
+title: "Advanced Teaching Preparation"
 collection: teaching
 type: "Teaching Certificate"
 permalink: /teaching/2018-09-14-teaching-advanced-preparation
