@@ -2,6 +2,7 @@
 title: "Dynamic regulation of PIF5 by COP1‐SPA complex to optimize photomorphogenesis in Arabidopsis"
 collection: publications
 date: 2018-08-25
+permalink: /publication/2018-02-09-plant-journal-PIF5
 venue: 'The Plant Journal'
 ---
 
