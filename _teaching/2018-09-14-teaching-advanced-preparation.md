@@ -1,4 +1,3 @@
-
 ---
 title: "Advanced teaching Preparation"
 collection: teaching
@@ -8,6 +7,7 @@ venue: "Ut Austin"
 date: 2018-09-14
 location: "Austin, USA"
 ---
+
 
 A professional development opportunity for graduate student instructors to learn about, observe, practice, receive feedback on, and reflect upon classroom teaching techniques.
 I am glad that I joined this teaching series where I have learned a lot of new things and meet many enthustiastic instructors and share a lot of interesting stores in class. [More information about this can be found here](https://utexas.box.com/s/wt20w4pcku781bpxzf25q65akjqduvmf)
