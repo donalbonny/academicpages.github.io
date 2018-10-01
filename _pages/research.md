@@ -6,14 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
----
-
-{% include base_path %}
 
 Currently, I am working under the supervision of Dr. Enamul Huq, [Plant Biology Graduate Program at UT](https://sites.cns.utexas.edu/huq/home)
 
