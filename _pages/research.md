@@ -20,6 +20,9 @@ Therefore, I am now trying to build the network-based expression analysis of gen
 Using co-expression analysis (WGCNA) and RNA-seq datasets from different light treatments and key regulatory mutants in light signaling pathway, my goal is to build the network-based gene expression profile, the role of alternative splicing, and to identify the novel target genes associated with light signaling.
 Further, I seek to elucidate the fundamental questions underlying genotype-phenotype relationships. 
 
+In addition, I am optimizing the protocol for ATAC-Seq in plant system and analyzing the gene expression and transcriptional networks and chromatin accessibility in Arabidopsis using high-throughput DNA-sequencing and data analysis using HPC/Unix/R. The gene expression network output can be interactively displayed using R shiny
+
+
 ## Future research 
 
 I would like to focus on functional genomics analysis and apply this towards researching cancer and human diseases. 
