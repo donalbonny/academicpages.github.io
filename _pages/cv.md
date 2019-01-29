@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+My update CV can be [found here](donalbonny.github.io/assets/CV_VinhPham.pdf)
+      
+My research page can be [found here](https://www.researchgate.net/profile/Vinh_Pham6)
 
 Education
 ======
