@@ -7,9 +7,12 @@ venue: 'Development'
 ---
 
  
-Another version on bioxriv( https://www.biorxiv.org/content/early/2018/08/09/388157)
+Another version on [bioxriv](https://www.biorxiv.org/content/early/2018/08/09/388157)
 
 [Download paper here](https://www.biorxiv.org/content/early/2018/08/09/388157) 
+
+![light-signaling-5](/figures/light-signaling-5.png)
+
 
 
 
