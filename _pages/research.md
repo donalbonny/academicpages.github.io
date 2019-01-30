@@ -27,7 +27,7 @@ network of developmental pathways regulated by key regulators in Arabidopsis.
 
 ![light-signaling-2](/figures/light-signaling-3.png)
 
-The figures was credited to Dam et al., 2017. Gene co-expression analysis for functional classification and gene–disease predictions. Briefings in Bioinformatics
+The figure credited to Dam et al., 2017. Gene co-expression analysis for functional classification and gene–disease predictions. Briefings in Bioinformatics
 
 
 
