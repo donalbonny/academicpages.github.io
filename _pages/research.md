@@ -37,6 +37,8 @@ related genes based on expression characteristics patterns.
 
 ## Future research 
 
-I would like to focus on functional genomics analysis and apply this towards researching cancer and human diseases. 
+I would like to focus on functional genomics analysis and apply this towards researching  to improve human being (including human diseases, crops productivity and agricultures)
+
 My ultimate goal is to build a solid knowledge and experience in computational skills as they relate to understanding genetic variants, especially the effects of genomic variants on gene function and signaling networks. 
-Ultimately, I seek to develop innovative methods with human genomics data. 
+
+Ultimately, I seek to develop innovative methods with functional genomics data. 
