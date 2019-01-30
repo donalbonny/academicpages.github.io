@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Vinh N. Pham"
-  avatar           : "images/profile-picture.png"
+  avatar           : "profile-picture.png"
   bio              : "Plant biologist, computational biologist and a pastry chef"
   location         : "Austin, TX"
   employer         :
