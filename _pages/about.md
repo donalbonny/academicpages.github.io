@@ -14,7 +14,7 @@ A research-minded, passion for data analysis and dedicated for education
 ======
 
 
-I am Vinh Pham, a Ph.D. student at UT Austin since 2014. I love science, research and working with data. 
+I am Vinh Pham, a Ph.D. student at UT Austin. I love science, research and working with data. 
 
 I am working as a Plant Scientist.
 
