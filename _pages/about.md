@@ -18,7 +18,7 @@ I am Vinh Pham, a Ph.D. student at UT Austin since 2014. I love science, researc
 
 I am working as a Plant Scientist.
 
-My ultimate goal is becoming a Data Scientist, applying molecular biology, genomics data analysis, and especially machine learning into developing innovations to improve human health. 
+My ultimate goal is becoming a Health Data Scientist, applying molecular biology, genomics data analysis, and especially machine learning into developing innovations to improve human health. 
 
 My resume is available [here](/assets/CV_VinhPham.pdf)
 
