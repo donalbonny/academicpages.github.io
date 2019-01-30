@@ -14,7 +14,7 @@ Currently, I am working under the supervision of Dr. Enamul Huq, [Plant Biology 
 My research interests focus on applying both molecular genetics and bioinformatics to understand the light signaling in Arabidopsis.
 
 
-![light-signaling-1](/figures/light-signaling-1.png)
+![light-signaling-1](/figures/light-signaling-2.png)
 
 • Project 1: Applied negative binomial generalized linear models for different expression comparison and
 clustering analysis (k-means and hierarchical clustering) in R using gene expression data to reveal intricate
@@ -25,7 +25,7 @@ network of developmental pathways regulated by key regulators in Arabidopsis.
 
 • Project 2: Develop computational pipelines using Unix/R and statistical based methods using R to analyze coexpression data from 60 different transcriptome sequencing samples to understand transcriptional regulatory network in light signaling and identify the novel key regulators in light response.
 
-![light-signaling-2](/figures/light-signaling-2.png)
+![light-signaling-2](/figures/light-signaling-3.png)
 
 The figures was credited to Dam et al., 2017. Gene co-expression analysis for functional classification and gene–disease predictions. Briefings in Bioinformatics
 
