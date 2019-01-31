@@ -472,14 +472,15 @@ metric <- "Accuracy"
 set.seed(2018)
 fit.rf <- train(diagnosis~., data= data, method="rf", metric=metric, trControl=control)
 
-
+#kNN
 set.seed(2018)
 fit.knn <- train(diagnosis~., data = data, method = "knn", metric = metric, trControl = control)
 
 #SVM 
 set.seed(2018)
 fit.svm <- train(diagnosis~., data = data, method = "svmRadial", metric = metric, trControl = control)
-#
+
+# decision tree
 set.seed(2018)
 fit.rpart <- train(diagnosis~., data = data, method = "rpart", metric = metric, trControl = control)
 ```
