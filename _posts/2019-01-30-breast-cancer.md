@@ -348,7 +348,7 @@ ggplot(data, aes(x=concavity_mean, y= texture_mean, color=diagnosis)) + geom_poi
 ![](/figures/cancer_files/figure-markdown_github/unnamed-chunk-15-1.png)
 
 ``` r
-data %>% select(-diagnosis) %>% # remove Species column
+data %>% select(-diagnosis) %>% # remove diagnosis column
   scale() %>%                 # scale to 0 mean and unit variance
   prcomp() ->                 # do PCA
   pca 
