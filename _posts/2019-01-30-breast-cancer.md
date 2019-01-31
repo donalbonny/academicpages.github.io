@@ -36,7 +36,7 @@ With each feature has 3 information (1) mean, (2) standard error, and (3) “wor
 three largest values) computed.
 
 
-![cancer-1](https://github.com/donalbonny/donalbonny.github.io/blob/master/figures/cancer_files/figure-markdown_github/cancer-1.png)
+![cancer-1](/figures/cancer_files/figure-markdown_github/cancer-1.png)
 
 
 Figure from [1] Digitized images of FNA: (left) Benign, (right) Malignant.
