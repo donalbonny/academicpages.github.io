@@ -1,4 +1,4 @@
-``` r message = F
+``` r 
 library(egg) # required to arrange plots side-by-side
 ```
 
