@@ -8,12 +8,10 @@ tags:
   - Rstat
 ---
 
-This is the example of using machine learning in predicting the diagnosis of breast cancer from 
 
 ======
 
-The machine learning algorithms were trained to detect breast
-cancer using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset[1] The dataset consists of features which were computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. There are 569 data points in the dataset: 212 – Malignant, 357 –Benign.
+The machine learning algorithms were trained to detect breast cancer using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset[1] The dataset consists of features which were computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. There are 569 data points in the dataset: 212 – Malignant, 357 –Benign.
 
 The features describe the characteristics of the cell nuclei found in the image including:
 
