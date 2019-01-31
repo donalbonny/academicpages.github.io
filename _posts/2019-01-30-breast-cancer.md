@@ -52,9 +52,9 @@ The goal is classify whether the specific cancer is benign or malignant.
  
 I used the classification algorithmn to fir the function that predict the new instances. 
  
-Detail analysis and the model for the project can be [read here](https://github.com/donalbonny/MachineLearning_projects/blob/master/breast-cancer.md)
+Detail analysis and the model for the project can be [read here](https://github.com/donalbonny/MachineLearning_projects/blob/master/Breast-cancer.md)
 
 References: 
-1. William H Wolberg, W Nick Street, and Olvi L Mangasarian. 1992. Breast cancer Wisconsin (diagnostic) data set. UCI Machine Learning Repository [http://archive.ics. uci. edu/ml/] (1992)
+1. William H Wolberg, W Nick Street, and Olvi L Mangasarian. 1992. Breast cancer Wisconsin (diagnostic) data set. UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/)(1992)
 
 
