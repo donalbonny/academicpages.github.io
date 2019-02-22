@@ -25,10 +25,10 @@ What I have learned from this blog:
 - using regression, classification to build the model (caret package)
 
 
-I found the Pan-lung cancer dataset from cbio-portal with very nice visualization of lung cancer data
+I found the Pan-lung cancer dataset from cbio-portal with very nice [data visualization](https://www.cbioportal.org/study?id=nsclc_tcga_broad_2016&tab=summary) of lung cancer data
 
 
-https://www.cbioportal.org/study?id=nsclc_tcga_broad_2016&tab=summary
+
 
 Example of the most 10 mutation genes and frequency 
 
