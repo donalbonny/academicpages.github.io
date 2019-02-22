@@ -1,4 +1,3 @@
-
 ---
 title: ' Interactive plot in R '
 date: 2019-02-20
