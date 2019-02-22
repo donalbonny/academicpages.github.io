@@ -1,6 +1,6 @@
 ---
 title: ' Lung cancer dataset and visualization'
-date: 2019-01-30
+date: 2019-02-22
 tags:
   - Machine Learning
   - Data analysis
