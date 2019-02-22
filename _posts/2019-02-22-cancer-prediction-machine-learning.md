@@ -1,5 +1,5 @@
 ---
-title: ' Breast Cancer Machine Learning'
+title: ' Lung cancer dataset and visualization'
 date: 2019-01-30
 tags:
   - Machine Learning
