@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Currently, I am working under the supervision of Dr. Enamul Huq, [Plant Biology Graduate Program at UT](https://sites.cns.utexas.edu/huq/home)
+During my Ph.D. study,  I was working under the supervision of Dr. Enamul Huq, [Plant Biology Graduate Program at UT](https://sites.cns.utexas.edu/huq/home)
 
 ## Current projects
 
