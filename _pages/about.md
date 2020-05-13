@@ -14,7 +14,7 @@ A research-minded, passion for data analysis and dedicated for education
 ======
 
 
-I am Vinh Pham, a Technical Application Scientist at Illumina Inc. I love science, research and working with data. 
+I am Vinh Pham, a Technical Applications Scientist at Illumina Inc. I love science, research and working with data. 
 
 My daily job at Illumina is supporting reseachers and scientists around the world with bioinformatics and software to analyze their Next-Generation Sequencing data. 
 
