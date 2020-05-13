@@ -14,11 +14,11 @@ A research-minded, passion for data analysis and dedicated for education
 ======
 
 
-I am Vinh Pham, a Ph.D. student at UT Austin. I love science, research and working with data. 
+I am Vinh Pham, a Technical Application Scientist at Illumina Inc. I love science, research and working with data. 
 
-I am working as a Plant Scientist.
+My daily job at Illumina is supporting reseachers and scientists around the world with bioinformatics and software to analyze their Next-Generation Sequencing data. 
 
-My ultimate goal is becoming a Health Data Scientist, applying molecular biology, genomics data analysis, and especially machine learning into developing innovations to improve human health. 
+My ultimate goal is applying molecular biology, genomics data analysis into developing innovations to improve human health. 
 
 My resume is available [here](/assets/CV_VinhPham.pdf)
 
